@@ -1,4 +1,4 @@
-#include "redis_client.h"
+#include "RedisClient.h"
 
 RedisClient::RedisClient() : c_(NULL) 
 {
